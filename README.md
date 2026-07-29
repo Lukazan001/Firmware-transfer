@@ -1,9 +1,9 @@
 # Firmware Transfer
 
-固件中转仓库。
+Firmware hosting for external downloads.
 
-## 文件列表
+## Files
 
-| 文件 | 版本 | 构建时间 |
-|------|------|----------|
+| File | Version | Build Date |
+|------|---------|------------|
 | [xmini-c3-en_v1.10.0.bin](xmini-c3-en_v1.10.0.bin) | v1.10.0 | 2026-07-23 |
